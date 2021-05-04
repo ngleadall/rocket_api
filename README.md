@@ -9,11 +9,11 @@ Testing out a Rocket + Diesel/SQLite json HTTP API.
 **RESTful routes:**
 - [GET]/users 
 
-- [GET]/users/<id> - 
+- [GET]/users/\<id\>
 
 - [POST]/users
 
-- [PUT]/users/<id>
+- [PUT]/users/\<id\>
 
 - [DELETE]/users/<id>
 
